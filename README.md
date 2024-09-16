@@ -1,5 +1,4 @@
 # Pengalaman belajar di dicodingdingding    
-## Ini adalah repository untuk latihan membuat branch baru  
   
 **16 September 2024**  
 Belajar dasar git dengan github (progres 38%)  
